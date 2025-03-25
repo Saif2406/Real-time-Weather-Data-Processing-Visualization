@@ -21,6 +21,5 @@ This project transformed static weather data into a live-streaming system, provi
 
 Key Technologies Used: Python, Apache Kafka, PostgreSQL, Grafana, Docker, Kubernetes, Linux.
 
-Activate to view larger image,
-Image preview
+![Real Time Weather Data Architecture](https://github.com/user-attachments/assets/83986e25-f5f5-4b3a-b802-5edfd7843d11)
 
